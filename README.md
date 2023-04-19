@@ -1,6 +1,6 @@
 # Convert WooCommerce dropdown attribute to radio button
 
-![WC Dropdown to Radio.](https://prnt.sc/mE-wCOjVzwgC)
+![WC Dropdown to Radio](https://i.ibb.co/nDCj7rH/download.png)
 
 ```
 // modify single product select dropdown to input radio 
